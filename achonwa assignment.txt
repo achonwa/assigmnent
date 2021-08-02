@@ -1,64 +1,38 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1561\cocoasubrtf600
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red53\green53\blue53;}
-{\*\expandedcolortbl;;\cssrgb\c27059\c27059\c27059;}
-{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{hyphen\}}{\leveltext\leveltemplateid1\'01\uc0\u8259 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}}
-{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}}
-\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab560
-\pard\pardeftab560\slleading20\qc\partightenfactor0
+1-What are use cases and version control system.
+-for software management
+-In software updates 
+-in software development
+-tracing errors
+-Different team members working remotely on a project
+-project tracking
 
-\f0\b\fs36 \cf0 1-What are use cases and version control system.\
--for software management\
--In software updates \
--in software development\
--tracing errors\
--Different team members working remotely on a project\
--project tracking\
-\
-Git is an open source version control system for public access \
-\
-2. Give the importance and uses of a version control system.\
-\pard\pardeftab560\pardirnatural\qc\partightenfactor0
-\ls1\ilvl0
-\f1 \cf0 {\listtext	\uc0\u8259 	}
-\f0 access to the source code server simultaneously\
-\ls1\ilvl0
-\f1 {\listtext	\uc0\u8259 	}
-\f0 working together\
-\ls1\ilvl0
-\f1 {\listtext	\uc0\u8259 	}
-\f0 tracking project history\
-\ls1\ilvl0
-\f1 {\listtext	\uc0\u8259 	}
-\f0 multitasking \
-\ls1\ilvl0
-\f1 {\listtext	\uc0\u8259 	}\
-\pard\pardeftab560\slleading20\qc\partightenfactor0
+Git is an open source version control system for public access 
 
-\f0 \cf0 \
-3. Name the other types of version control systems we have.\
- local, centralized and distributed version control systems.\
-Git,mercurial,revision control system, vss\
-\
-4\
-https://github.com/achonwa/assigmnent.git\
-\
-\
-\
-5. In your own terms define software management and give examples of software management tools and the uses of software management tools.\
-Software management simply revolves around scheduling and product quality management.\
-JIRA\
-ASANA\
-WRIKE\
-TRELLO\
-SCORO\
-uses of software management tools.\
-Being able to assign and update tasks\
-shows the time frame needed to complete an assigned task\
-being able to share and organize documents \
-communication and reports as well.\
-\pard\pardeftab560\slleading20\partightenfactor0
+2. Give the importance and uses of a version control system.
+- access to the source code server simultaneously
+- working together
+- tracking project history
+- multitasking 
+- 
 
-\f1\b0\fs24 \cf2 \
-}
+3. Name the other types of version control systems we have.
+ local, centralized and distributed version control systems.
+Git,mercurial,revision control system, vss
+
+4
+https://github.com/achonwa/assigmnent.git
+
+
+
+5. In your own terms define software management and give examples of software management tools and the uses of software management tools.
+Software management simply revolves around scheduling and product quality management.
+JIRA
+ASANA
+WRIKE
+TRELLO
+SCORO
+uses of software management tools.
+Being able to assign and update tasks
+shows the time frame needed to complete an assigned task
+being able to share and organize documents 
+communication and reports as well.
